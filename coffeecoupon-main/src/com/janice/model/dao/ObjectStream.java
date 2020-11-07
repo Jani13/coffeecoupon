@@ -36,7 +36,7 @@ public class ObjectStream {
 			    	System.out.println(obj.toString());			    	
 			    }			    
 			}else{
-				System.out.print("File customers.csv does not exist\n");
+				System.out.print("File customers.dat does not exist\n");
 			}			
 		} catch (UnsupportedEncodingException e) {
 			e.printStackTrace();
